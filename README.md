@@ -1,3 +1,9 @@
+# Update 2/21/2021 - I've finally designed a case for the mining controller!  It's nothing fancy, but it works and is fairly easy to print.  Here is a pic:
+
+![pic](mining_controller_case/MiningControllerCase.jpg}
+
+I've included all of the STL files to print the case, as well as the OpenSCAD files if you want to modify them.  Just clone the repo.  They are in the mining_controller_case directory.  Enjoy!
+
 # MINING CONTROLLER
 This software (and the hardware included in the parts list below) will allow you to create a 16 button mining controller for the game Star Citizen.  To save on pins and simplify design, I used a 4x4 keypad matrix.
 
