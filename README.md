@@ -1,6 +1,8 @@
-# Update 2/21/2021 - I've finally designed a case for the mining controller!  It's nothing fancy, but it works and is fairly easy to print.  Here is a pic:
+# Update 2/21/2021
 
-![pic](mining_controller_case/MiningControllerCase.jpg}
+I've finally designed a case for the mining controller!  It's nothing fancy, but it works and is fairly easy to print.  Here is a pic:
+
+![pic](mining_controller_case/MiningControllerCase.jpg)
 
 I've included all of the STL files to print the case, as well as the OpenSCAD files if you want to modify them.  Just clone the repo.  They are in the mining_controller_case directory.  Enjoy!
 
